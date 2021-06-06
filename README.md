@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/82009362/120911441-22967800-c64d-11eb-9d8a-5722520eac7b.png)
 
-#I also found a correlation between the Maximum Retail Price (MRP) of items and the Overall Outlet Sales. 
+#I also found a moderate correlation between the Maximum Retail Price (MRP) of items and the Overall Outlet Sales. 
 
 ![image](https://user-images.githubusercontent.com/82009362/120911325-32fa2300-c64c-11eb-8d46-dcfb7ea987a8.png)
 
