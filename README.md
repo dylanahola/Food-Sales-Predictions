@@ -15,3 +15,5 @@
 #I also found a correlation between the Maximum Retail Price (MRP) of items and the Overall Outlet Sales. 
 
 ![image](https://user-images.githubusercontent.com/82009362/120911325-32fa2300-c64c-11eb-8d46-dcfb7ea987a8.png)
+
+#I also put together a KNN Regression model as well as a random forest regression to predict the outlet sales. After working with both I found that the random forest resulted in a higher R^2 Score out of the two regression models.
